@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EnvoyReporter": {
+      "commandName": "Project",
+      "commandLineArgs": "--config ..\\..\\..\\..\\configuration.json --output image"
+    }
+  }
+}

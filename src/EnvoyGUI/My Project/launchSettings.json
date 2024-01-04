@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EnvoyGUI": {
+      "commandName": "Project",
+      "commandLineArgs": "--config ..\\..\\..\\..\\configuration.json"
+    }
+  }
+}

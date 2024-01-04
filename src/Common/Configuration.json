@@ -1,0 +1,23 @@
+﻿{
+  "database": "Enphase",
+  "emailfrom": "enphase@company.com",
+  "emailto": "user@company.com",
+  "envoyaddress": "http://10.0.0.100",
+  "envoyuserid": "",
+  "envoypassword": "",
+  "interval": "01:00:00",
+  "logfolder": "",
+  "namefrom": "Envoy Agent",
+  "nameto": "User Name",
+  "outputfolder": "",
+  "queryinfo": "info.xml",
+  "queryinventory": "inventory.json",
+  "querymeter": "production.json?details=1",
+  "smtppassword": "secret",
+  "smtpport": "587",
+  "smtpserver": "mail.company.com",
+  "smtpuser": "enphase@company.com",
+  "sqlPassword": "secret",
+  "sqlserver": "server name",
+  "sqlUserID": "UserID"
+}
