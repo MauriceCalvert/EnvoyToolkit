@@ -55,7 +55,7 @@ You will need:
 *	On the 24/7 PC, download the repository and install EnvoyToolkit.msi. It will install to  
 	**C:\Program Files(x86)\EnvoyToolkit\EnvoyToolkit**
 
-*	Restore **Enphase.bak** from the Assets folder to the database **Enphase** on your SQL Server.  
+*	Restore **Enphase.bak** from the assets folder to the database **Enphase** on your SQL Server.  
 	It contains a few years' data which you can use to play with the reporting, with EnvoyGUI.exe.
 	
 *	Setup an email account with your SMTP provider, for example 'Envoy Agent' `envoy@mydomain.com`.
@@ -85,7 +85,7 @@ When you remove an inverter, restart EnvoyMonitor.exe service to reload the conf
 
 Use EnvoyGUI.exe to play with the data:
 
-![EnvoyGUI](Assets/EnvoyGUI.jpg "")
+![EnvoyGUI](assets/EnvoyGUI.jpg "")
 
 Use EnvoyReporter.exe to build and send reports automatically.  Instructions [here][2]
 
@@ -193,7 +193,7 @@ System.ServiceModel.Security
 
 Maurice Calvert
 
-![](Assets/momo.jpg "") <- This is a picture, to fool bots >;-)
+![](assets/momo.jpg "") <- This is a picture, to fool bots >;-)
 
 ## Version History
 
